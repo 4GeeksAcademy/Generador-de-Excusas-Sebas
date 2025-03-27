@@ -1,5 +1,15 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: rgb(179, 102, 30);
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(24, 24, 3);
+    margin-top: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    
+    height: 300px;
+    margin-top: 50px;
 }
